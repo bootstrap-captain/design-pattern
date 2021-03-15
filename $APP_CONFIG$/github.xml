@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="5c876144-dcc3-4059-92e4-26fc8ef76aa8" name="bootstrap-captain">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>

@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="org.apache.commons.io.FileUtils.writeLines(file,lines,append)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
