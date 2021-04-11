@@ -6,8 +6,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="*.redis入门.md" type="PLAIN_TEXT" />
       <mapping pattern="application.yam" type="PLAIN_TEXT" />
-      <mapping ext="yml" type="PLAIN_TEXT" />
-      <removed_mapping ext="yml" type="YAML" />
+      <mapping ext="yml" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
