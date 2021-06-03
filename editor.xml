@@ -2,6 +2,9 @@
   <component name="CodeFoldingSettings">
     <option name="COLLAPSE_IMPORTS" value="false" />
   </component>
+  <component name="CodeInsightSettings">
+    <option name="USE_INSTANCEOF_ON_EQUALS_PARAMETER" value="true" />
+  </component>
   <component name="DefaultFont">
     <option name="FONT_FAMILY" value="Menlo" />
   </component>
