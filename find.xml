@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Files" />
-    <option name="defaultScopeName" value="Project Files" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="customScope" value="Project 'deliversmstencent'" />
+    <option name="defaultScopeName" value="Project 'deliversmstencent'" />
+    <option name="SEARCH_SCOPE" value="Project 'deliversmstencent'" />
     <mask>*.java</mask>
   </component>
 </application>
