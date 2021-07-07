@@ -70,6 +70,10 @@
           <option name="url" value="https://github.com/bootstrap-captain/java-aglor.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/nike-gc-digital-tech/ugc-poc.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Desktop" />
