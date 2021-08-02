@@ -10,8 +10,8 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="*.redis入门.md" type="PLAIN_TEXT" />
       <mapping pattern="application.yam" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="md" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>
