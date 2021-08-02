@@ -3,9 +3,9 @@
     <extensionMap>
       <mapping pattern="textInput.json" type="AUTO_DETECTED" />
       <mapping pattern="manual_reponse_product.json" type="AUTO_DETECTED" />
+      <mapping pattern="template_add_response.json" type="AUTO_DETECTED" />
       <mapping pattern="application.yaml" type="AUTO_DETECTED" />
       <mapping pattern="textData.json" type="AUTO_DETECTED" />
-      <mapping pattern="template_add_response.json" type="AUTO_DETECTED" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="*.redis入门.md" type="PLAIN_TEXT" />
