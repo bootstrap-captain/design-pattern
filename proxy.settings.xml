@@ -1,5 +1,6 @@
 <application>
   <component name="HttpConfigurable">
+    <option name="USE_PROXY_PAC" value="true" />
     <option name="PROXY_HOST" value="connsvr.nike.com" />
     <option name="PROXY_PORT" value="8080" />
     <option name="PROXY_EXCEPTIONS" value="*.nikedev.com,localhost" />
